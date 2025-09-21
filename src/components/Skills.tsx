@@ -24,6 +24,7 @@ export default function Skills () {
             <Skill icon={"simple-icons:vercel"} name={"Vercel"} className={"bg-transparent border-black text-black"} />
             <Skill icon={"vscode-icons:file-type-light-shadcn"} name={"Shadcn/ui"} className={"bg-transparent border-black text-black"} />
             <Skill icon={"simple-icons:postman"} name={"Postman"} className={"bg-transparent border-orange-600 text-orange-600"} />
+            <Skill icon={"simple-icons:cloudinary"} name={"Cloudinary"} className={"bg-transparent border-blue-600 text-blue-600"} />
         </>
     );
 };
